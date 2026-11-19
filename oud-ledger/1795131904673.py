@@ -1,0 +1,1 @@
+"""Domain services for inventory, orders, and financial reporting."""

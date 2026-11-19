@@ -1,0 +1,5 @@
+DATABASE_URL=sqlite:///./data/fragrance_shop.db
+SHOP_NAME="Al-Noor Attar & Oud (Example)"
+CURRENCY=USD
+NOTIFICATION_EMAIL=shop-ops@example.com
+PAYMENT_GATEWAY_KEY=YOUR_API_KEY_HERE

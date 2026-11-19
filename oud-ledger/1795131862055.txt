@@ -1,0 +1,19 @@
+oud-ledger/
+├── README.md
+├── pyproject.toml
+├── .env.example
+├── src/
+│   └── oud_ledger/
+│       ├── __init__.py
+│       ├── config.py
+│       ├── db.py
+│       ├── models.py
+│       ├── services/
+│       │   ├── __init__.py
+│       │   ├── inventory.py
+│       │   ├── orders.py
+│       │   └── finance.py
+│       └── cli.py
+└── tests/
+    ├── __init__.py
+    └── test_shop.py
